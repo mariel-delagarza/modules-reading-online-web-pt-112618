@@ -11,4 +11,4 @@ class Dancer
     @name = name
   end
 
-end 
+end
